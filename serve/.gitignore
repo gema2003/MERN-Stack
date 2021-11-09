@@ -12,6 +12,13 @@
 /build
 
 # misc
+._.DS_Store
+._controllers
+._middleware
+._models
+._node_modules
+._routes
+.env
 .DS_Store
 .env.local
 .env.development.local
